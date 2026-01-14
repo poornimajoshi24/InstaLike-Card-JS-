@@ -1,31 +1,41 @@
-❤️ HeartBloom – Double Tap Like Animation
+# ❤️ HeartBloom – Double Tap Like Animation
 
-An Instagram-style double-tap like animation built using HTML, CSS, and JavaScript.
-This project demonstrates a smooth micro-interaction, animated gradient background, and heart pop effect on double click.
+HeartBloom is an **Instagram-style double-tap like animation project** built using **HTML, CSS, and JavaScript**.  
+It showcases smooth UI micro-interactions, animated gradients, and a modern social-media-inspired card design.
 
-✨ Features
+---
 
-❤️ Double-tap / double-click to like
+## ✨ Features
 
-🎨 Instagram-style gradient heart
+- ❤️ Double-click / double-tap to like
+- 🎨 Instagram-style gradient heart animation
+- 🌈 Animated colourful background
+- 🎯 Smooth scale, rotate & fly-up heart effect
+- 📱 Clean and minimal card UI
+- ⚡ Built using pure HTML, CSS & JavaScript (no frameworks)
 
-🌈 Animated colourful background
+---
 
-🎯 Smooth scale, rotate & fly-up animation
+## 🛠️ Technologies Used
 
-📱 Clean UI inspired by social media cards
+- **HTML5** – Markup & structure  
+- **CSS3** – Styling, gradients & animations  
+- **JavaScript (Vanilla)** – Event handling & interactions  
+- **Remix Icon** – Heart icon  
 
-⚡ Built using pure HTML, CSS & JavaScript (no libraries)
+---
 
-📸 How It Works
+## 📸 How It Works
 
-User double-clicks on the card
+1. User double-clicks on the card
+2. Heart appears in the center
+3. Heart scales up and rotates slightly
+4. Heart flies upward and fades out
+5. Background continues animating for an interactive feel
 
-Heart appears in the center
+---
 
-Heart scales up, rotates slightly
 
-Heart flies upward and fades out
 
-Background animates continuously for a lively feel
+
 
