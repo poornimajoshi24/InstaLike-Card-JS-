@@ -33,7 +33,6 @@ It showcases smooth UI micro-interactions, animated gradients, and a modern soci
 4. Heart flies upward and fades out
 5. Background continues animating for an interactive feel
 
----
 
 
 
