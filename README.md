@@ -23,6 +23,7 @@ It showcases smooth UI micro-interactions, animated gradients, and a modern soci
 - **JavaScript (Vanilla)** – Event handling & interactions  
 - **Remix Icon** – Heart icon  
 
+
 ---
 
 ## 📸 How It Works
