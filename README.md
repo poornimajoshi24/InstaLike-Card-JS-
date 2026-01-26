@@ -25,6 +25,8 @@ It showcases smooth UI micro-interactions, animated gradients, and a modern soci
 
 
 ---
+
+
 ## 📸 How It Works
 
 1. User double-clicks on the card
