@@ -31,3 +31,16 @@ It showcases smooth UI micro-interactions, animated gradients, and a modern soci
 
 
 
+
+## 📸 How It Works
+
+1. User double-clicks on the card
+2. Heart appears in the center
+3. Heart scales up and rotates slightly
+4. Heart flies upward and fades out
+5. Background continues animating for an interactive feel
+
+
+
+
+
